@@ -1,10 +1,11 @@
 <div align='center'>
 <h1 >
-  hey there
+  Hey There !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I am Neil Shukla
 </h1>
 <h3 > Coding and learning to code are the only things I do 😄<br> 
-My areas of interest include Web Development, Machine Learning and Data Science
+My areas of interest include Web Development, Machine Learning and Data Science  :fire:
 </h3>
 </div>
 <div>
