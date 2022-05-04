@@ -14,6 +14,7 @@ My areas of interest include Web Development, Machine Learning and Data Science 
 <ul>
 <li>I am a college student from India, pursuing B.Tech Computer Science and Engineering(Data Science)</li>
 <li>I keep exploring subjects of my interest on the internet</li>  
+<li>I read articles on latest technologies in my free time </li>
 </ul>
 </div>
 <div>
