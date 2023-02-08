@@ -40,9 +40,5 @@ My areas of interest include Web Development, Machine Learning and Data Science 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
 </div>
 
-### :pager:IDEs I've Used: <br><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 ### :computer:OS : <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
